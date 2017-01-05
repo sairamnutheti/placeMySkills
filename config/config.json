@@ -1,0 +1,8 @@
+{
+  "gmailSmtpDetails": {
+    "email": "",
+    "password": "",
+    "from": "",
+    "to": ""
+  }
+}
